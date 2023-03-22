@@ -1,5 +1,6 @@
 # A Tetris Like Game
 ## About
+Done in pair with [@Budorskin](https://github.com/Budorskin).\
 This is a Tetris like game written in Python, for semester 1 at EFREI Paris.\
 Honestly, it really doesn't have much to do with Tetris.
 
